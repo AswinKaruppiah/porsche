@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Mukta:wght@300&display=swap");
+
+@font-face {
+  font-family: "porsche";
+  src: url("./assets/fonts/911porschav3.ttf");
+}
+
+@font-face {
+  font-family: "porschelaser";
+  src: url("./assets/fonts/911porschav3laser.ttf");
+}
+
+@font-face {
+  font-family: "porschebold";
+  src: url("./assets/fonts/911porschav3bold.ttf");
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

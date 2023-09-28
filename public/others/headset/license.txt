@@ -1,0 +1,11 @@
+Model Information:
+* title:	Headset
+* source:	https://sketchfab.com/3d-models/headset-dc79d4543a634103a12c556998de8b43
+* author:	kilianM (https://sketchfab.com/kilianM)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Headset" (https://sketchfab.com/3d-models/headset-dc79d4543a634103a12c556998de8b43) by kilianM (https://sketchfab.com/kilianM) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
